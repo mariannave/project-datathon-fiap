@@ -1,7 +1,7 @@
 # Datathon – Case Passos Mágicos (PEDE) – MLOps Project
 
 [![CI](https://github.com/mariannave/project-datathon-fiap/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mariannave/project-datathon-fiap/actions/workflows/ci.yml)
-[![Coverage](https://raw.githubusercontent.com/mariannave/project-datathon-fiap/main/docs/coverage.svg)](https://github.com/mariannave/project-datathon-fiap/blob/main/docs/coverage.svg)
+[![Coverage](docs/coverage.svg)](docs/coverage.svg)
 
 Projeto de Machine Learning para estimar risco de defasagem escolar usando dados PEDE (2022, 2023 e 2024), com pipeline de treino, API de predição, monitoramento de drift e empacotamento Docker.
 
