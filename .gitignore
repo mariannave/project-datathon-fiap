@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage artifacts
+.coverage
+.coverage.*
+htmlcov/
+*.cover
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/

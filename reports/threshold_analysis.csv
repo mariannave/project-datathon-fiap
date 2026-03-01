@@ -1,0 +1,5 @@
+threshold,accuracy,precision_risco,recall_risco,f1_risco,false_positives,true_positives,false_negatives,true_negatives
+0.5,0.617,0.2595,0.9808,0.4105,291,102,2,370
+0.7,0.7908,0.3761,0.8173,0.5152,141,85,19,520
+0.8,0.8248,0.4074,0.6346,0.4962,96,66,38,565
+0.9,0.8431,0.375,0.2308,0.2857,40,24,80,621

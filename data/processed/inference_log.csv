@@ -1,0 +1,10 @@
+year,RA,Fase,Turma,Idade,Genero,Ano_ingresso,Instituicao_de_ensino,IAA,IEG,IPS,IPP,IDA,IPV,IAN,INDE,Pedra_atual,Pedra_anterior,Atingiu_PV,Indicado,tempo_PM,pred_proba,pred_label,pred_band,risk_threshold,review_threshold,ts
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772404802
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772404990
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772405105
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772405156
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772405350
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772405535
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772405626
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772405655
+2023,,ALFA,,,,,,,,,,,,,,,,,,,0.75,0,review,0.9,0.7,1772406036
